@@ -1,0 +1,9 @@
+C:\Users\John\source\repos\NETD 2018\Lab2\Lab2\obj\Debug\Lab2.vbprojResolveAssemblyReference.cache
+C:\Users\John\source\repos\NETD 2018\Lab2\Lab2\obj\Debug\Lab2.vbproj.GenerateResource.Cache
+C:\Users\John\source\repos\NETD 2018\Lab2\Lab2\obj\Debug\Lab2.vbproj.CoreCompileInputs.cache
+C:\Users\John\source\repos\NETD 2018\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\John\source\repos\NETD 2018\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\John\source\repos\NETD 2018\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\John\source\repos\NETD 2018\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\John\source\repos\NETD 2018\Lab2\Lab2\obj\Debug\Lab2.pdb
+C:\Users\John\source\repos\NETD 2018\Lab2\Lab2\obj\Debug\Lab2.frmSemesterGrades.resources
