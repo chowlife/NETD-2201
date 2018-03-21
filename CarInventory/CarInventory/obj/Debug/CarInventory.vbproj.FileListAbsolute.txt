@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\CarInventory\CarInventory\obj\Debug\CarInventory.vbprojResolveAssemblyReference.cache
+C:\Users\Owner\source\repos\CarInventory\CarInventory\obj\Debug\CarInventory.frmCarInventory.resources
+C:\Users\Owner\source\repos\CarInventory\CarInventory\obj\Debug\CarInventory.Resources.resources
+C:\Users\Owner\source\repos\CarInventory\CarInventory\obj\Debug\CarInventory.vbproj.GenerateResource.Cache
+C:\Users\Owner\source\repos\CarInventory\CarInventory\obj\Debug\CarInventory.vbproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\CarInventory\CarInventory\bin\Debug\CarInventory.exe.config
+C:\Users\Owner\source\repos\CarInventory\CarInventory\bin\Debug\CarInventory.exe
+C:\Users\Owner\source\repos\CarInventory\CarInventory\bin\Debug\CarInventory.pdb
+C:\Users\Owner\source\repos\CarInventory\CarInventory\obj\Debug\CarInventory.exe
+C:\Users\Owner\source\repos\CarInventory\CarInventory\obj\Debug\CarInventory.pdb

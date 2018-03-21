@@ -1,0 +1,42 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+EmployeeAverageShipped
+</name>
+</assembly>
+<members>
+<member name="T:EmployeeAverageShipped.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:EmployeeAverageShipped.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:EmployeeAverageShipped.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:EmployeeAverageShipped.frmEmployeeShipped">
+ <summary>
+ Author:         John Adrian Urdaneta
+ Project Name:   Lab3
+ Date:           02/03/18
+ Description:    Basically the same thing as lab one, the only difference is that we're being ask to do display three employee's input
+                 and calculates the average for each employees, after the third employee, disable controls and show the average for the
+                 three employees.
+ Sources/Referrence: Google, Prof Alfred's sample codes and Murach 2015 VB (the book).
+ </summary>
+</member>
+<member name="M:EmployeeAverageShipped.frmEmployeeShipped.ResetForm">
+ <summary>
+ Below is the ResetForm Function
+ </summary>
+</member>
+</members>
+</doc>
