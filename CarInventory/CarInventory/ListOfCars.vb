@@ -21,39 +21,50 @@ Public Class ListOfCars
 
     Public Sub New()
 
-        carCount += 1      ' increment the counter variable by 1
-        carIdentificationNumber = carCount ' give the car and id number
+        carCount += 1                       ' Counter that increments by 1
+        carIdentificationNumber = carCount  ' Give ID number
 
     End Sub
 
     Public Sub New(make As String, model As String, year As String, price As String, newstatus As Boolean)
 
-        ' call the other constructor 
-        ' to set the car count and
-        ' to set the car id
+        ' Call the constructor
         Me.New()
 
-
-        carMake = make         ' set the cars make
-        carModel = model  ' set the cars model
-        carYear = year    ' set the cars year
-        carPrice = price 'set the cars price
-        carNewStatus = newstatus        ' set the cars new status
+        ' Set the car make, model, year, price, and is it new?
+        carMake = make
+        carModel = model
+        carYear = year
+        carPrice = price
+        carNewStatus = newstatus
 
     End Sub
 
+    ''' <summary>
+    ''' Get the car count by Count()
+    ''' then set it's value
+    ''' </summary>
+    ''' <returns></returns>
     Public ReadOnly Property Count() As Integer
         Get
             Return carCount
         End Get
     End Property
-
+    ''' <summary>
+    ''' Get the carIdentificationNumber count by IdentificationNumber
+    ''' then set it's value
+    ''' </summary>
+    ''' <returns></returns>
     Public ReadOnly Property IdentificationNumber() As Integer
         Get
             Return carIdentificationNumber
         End Get
     End Property
-
+    ''' <summary>
+    ''' Get the carNewStatus count by NewStatus()
+    ''' then set it's value
+    ''' </summary>
+    ''' <returns></returns>
     Public Property NewStatus() As Boolean
         Get
             Return carNewStatus
@@ -62,7 +73,11 @@ Public Class ListOfCars
             carNewStatus = value
         End Set
     End Property
-
+    ''' <summary>
+    ''' Get the carMake count by Make()
+    ''' then set it's value
+    ''' </summary>
+    ''' <returns></returns>
     Public Property Make() As String
         Get
             Return carMake
@@ -71,7 +86,11 @@ Public Class ListOfCars
             carMake = value
         End Set
     End Property
-
+    ''' <summary>
+    ''' Get the carModel count by Model()
+    ''' then set it's value
+    ''' </summary>
+    ''' <returns></returns>
     Public Property Model() As String
         Get
             Return carModel
@@ -80,7 +99,11 @@ Public Class ListOfCars
             carModel = value
         End Set
     End Property
-
+    ''' <summary>
+    ''' Get the carYear count by Year()
+    ''' then set it's value
+    ''' </summary>
+    ''' <returns></returns>
     Public Property Year() As String
         Get
             Return carYear
@@ -89,7 +112,11 @@ Public Class ListOfCars
             carYear = value
         End Set
     End Property
-
+    ''' <summary>
+    ''' Get the carPrice count by Price()
+    ''' then set it's value
+    ''' </summary>
+    ''' <returns></returns>
     Public Property Price() As String
         Get
             Return carPrice
