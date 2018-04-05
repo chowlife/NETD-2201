@@ -1,0 +1,65 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+TextEditor
+</name>
+</assembly>
+<members>
+<member name="T:TextEditor.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:TextEditor.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:TextEditor.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:TextEditor.frmTextEditor">
+ <summary>
+ Author:         John Urdaneta
+ Date:           April 4th 2018
+ Program:        Lab 5: Text Editor
+ Description:    This program demonstrates the understanding in making a text editor.
+ Referrals:      Previous Labs, Google, Prof Alfred Sample Codes, and Murach VB 2015      
+ </summary>
+</member>
+<member name="M:TextEditor.frmTextEditor.mnuNew_Click(System.Object,System.EventArgs)">
+ <summary>
+ Mini Sub Routines to call below
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+ 
+</member>
+<member name="M:TextEditor.frmTextEditor.mnuCopy_Click(System.Object,System.EventArgs)">
+ <summary>
+ Using the little sub routine above to call
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+ 
+</member>
+<member name="M:TextEditor.frmTextEditor.mnuAbout_Click(System.Object,System.EventArgs)">
+ <summary>
+ The about stuff
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:TextEditor.frmTextEditor.OpenFile(System.String)">
+ <summary>
+ Function for Opening Files
+ </summary>
+ <param name="fullFilePath"></param>
+ <returns></returns>
+</member>
+</members>
+</doc>
